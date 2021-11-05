@@ -5,6 +5,8 @@
 //  Created by Ryo Ishikawa on 12/30/2017
 //
 
+import Foundation
+
 /// SeeAlso: https://developers.google.com/youtube/v3/docs/activities/list
 public struct ActivityListRequest: Requestable {
     
